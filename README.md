@@ -39,7 +39,7 @@ Based on original SIMMConn design by Xu Wang.
 | IC1, IC2 | 595-SN74ACT245PWR | Octal bus transceivers |
 | IC3 | 556-AF16V8C7JU | Programmable logic device |
 | IC3 socket | 517-8420-21B1-RK-TP | PLCC20 socket|
-| IC4 | 595-SN74LVC1G126DBVR | single bus buffer gate |
+| IC4 | 595-SN74LVC1G126DBVR | Single bus buffer gate |
 | J1 | 538-79107-7011 | Molex 2x12 2mm socket header |
 | J2 | 538-79107-7062 | Molex 2x13 2mm socket header |
 
