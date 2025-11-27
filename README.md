@@ -22,6 +22,7 @@ Based on original SIMMConn design by Xu Wang.
 - [Eagle 7 CAD schematic/board files in zip](/SIMMConn2/SIMMConn2_Eagle.zip)
 - [Schematic diagram in pdf](/SIMMConn2/SIMMConn2_sch.pdf)
 - [Schematic of the original SIMMConn in pdf and Eagle 7 CAD format](/SIMMConn2/SIMMConn_orig.zip)
+- [ZIP with original SIMMConn design including PLD files](/SIMMConn2/Sch.zip)
 
 \
 **PCB manufacturing parameters for JLCPCB:**  
@@ -41,7 +42,7 @@ Based on original SIMMConn design by Xu Wang.
 |---|---|---|
 | SIMM1 | 571-5822134-3 | 72-pin SIMM 22-degree connector |
 | IC1, IC2 | 595-SN74ACT245PWR | Octal bus transceivers |
-| IC3 | 556-AF16V8C7JU | PLD - need to be programmed! |
+| IC3 | 556-AF16V8C7JU | PLD - must be programmed! |
 | IC3 socket | 517-8420-21B1-RK-TP | PLCC20 socket|
 | IC4 | 595-SN74LVC1G126DBVR | Single bus buffer gate |
 | J1 | 538-79107-7011 | Molex 2x12 2mm socket header |
