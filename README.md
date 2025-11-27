@@ -26,15 +26,15 @@ Based on original SIMMConn design by Xu Wang.
 
 \
 **PCB manufacturing parameters for JLCPCB:**  
-- Base Material FR4
-- Layers 2
-- PCB Thickness 1.6mm
-- Material Type FR4 TG135
-- Outer Copper Weight 1 oz
-- Via Covering Tented
-- Min via hole size/diameter 0.3mm
-- Board Outline Tolerance 0.2mm(Regular)
-- Mark on PCB Order Number(Specify Position)
+Base Material FR4  
+Layers 2  
+PCB Thickness 1.6mm  
+Material Type FR4 TG135  
+Outer Copper Weight 1 oz  
+Via Covering Tented  
+Min via hole size/diameter 0.3mm  
+Board Outline Tolerance 0.2mm(Regular)  
+Mark on PCB Order Number(Specify Position)  
 
 \
 **BOM of specific components:**
