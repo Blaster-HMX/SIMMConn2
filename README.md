@@ -56,7 +56,7 @@ The following memory modules have been randomly selected and all passed memory t
 | 8 MB | Double | EDO | uPD4218165 | NEC | 60 ns | 1k |
 | 16 MB | Single | EDO | TMS417409ADJ | TI | 60 ns | 2k |
 | 16 MB | Single | EDO | HYB5117405BJ | Siemens | 60 ns | 2k |
-| 16 MB | Single | FPM | HY5117404AJ | Hyundai | 60 ns | 2k |
+| 16 MB | Single | EDO | HY5117404AJ | Hyundai | 60 ns | 2k |
 | 16 MB | Single | FPM | MDT51C16400CJB | | 60 ns | 4k? |
 | 32 MB | Double | EDO | TMS417409DJ | TI | 60 ns | 2k |
 | 32 MB | Double | EDO | NT511740C5J | Nanya | 60 ns | 2k |
@@ -64,9 +64,11 @@ The following memory modules have been randomly selected and all passed memory t
 | 32 MB | Double | FPM | NT511740C0J | Nanya | 60 ns | 2k |
 
 \
+**Assembled PCB:**
+![Assembled PCB](/SIMMConn2/SIMMConn2_PCB1.jpg)
+
+**AWE64Gold with SIMMConn2:**
+![AWE64Gold with SIMMConn2](/SIMMConn2/SIMMConn2_PCB2.jpg)
+
 **PCB:**
 ![EAGLE PCB](/SIMMConn2/SIMMConn2.png)
-
-**PCB Render from JLCPCB:**
-![PCB top side](/SIMMConn2/JLCPCB_SIMMConn2_top.png)
-![PCB bottom side](/SIMMConn2/JLCPCB_SIMMConn2_bottom.png)
