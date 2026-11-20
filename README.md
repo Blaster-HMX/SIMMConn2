@@ -18,7 +18,7 @@ Based on original SIMMConn design by Xu Wang.
 
 **This project includes:**
 
-- [Gerber files in zip for PCB manufacturing](/SIMMConn2/SIMMConn2.zip)
+- [Gerber files in zip for PCB manufacturing](/SIMMConn2/SIMMConn2_Gerber.zip)
 - [Eagle 7 CAD schematic/board files in zip](/SIMMConn2/SIMMConn2_Eagle.zip)
 - [Schematic diagram in pdf](/SIMMConn2/SIMMConn2_sch.pdf)
 - [Schematic of the original SIMMConn in pdf and Eagle 7 CAD format](/SIMMConn2/SIMMConn_orig.zip)
